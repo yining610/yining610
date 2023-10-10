@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Yining 👋 
 
 <!--
 **yining610/yining610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* 👯 **I’m currently looking for 2024 PhD position**
+* 🧐 Main research interests: NLP, Question Answering, Reinforcement Learning ...
+* 😎 More about me: https://yining610.github.io/
+* 🏃‍♂️ Hobbies: Squat and Perfume
+
+
