@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 * 👯 **I’m currently looking for 2024 PhD position!**
 * 🧐 Main research interests: NLP, Question Answering, Reinforcement Learning ...
 * 😎 More about me: https://yining610.github.io/
-* 🏃‍♂️ Hobbies: Squat, Perfume and Hip-hop
+* 🏃‍♂️ Hobbies: Squat, Swim, Perfume and Hip-hop
 
 
