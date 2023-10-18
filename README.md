@@ -1,5 +1,5 @@
 ### Hi there, this is Yining 👋 
-
+![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 <!--
 **yining610/yining610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
