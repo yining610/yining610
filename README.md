@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 -->
 * 🧐 Main research interests: NLP, Question Answering, Reinforcement Learning ...
 * 😎 More about me: https://yining610.github.io/
-* 🏃‍♂️ Hobbies: Squat, Swim, and Hip-hop
 
 
